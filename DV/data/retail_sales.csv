@@ -1,0 +1,361 @@
+OrderID,Date,Region,Country,State,City,Latitude,Longitude,Category,Subcategory,Quantity,Sales,Profit
+O0001,2023-01-01,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,6,664.55,131.95
+O0002,2023-01-04,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,1,285.67,59.82
+O0003,2023-01-07,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,5,492.56,70.45
+O0004,2023-01-10,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,8,2086.32,458.72
+O0005,2023-01-13,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,4,2439.3,221.61
+O0006,2023-01-16,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,7,1309.77,273.58
+O0007,2023-01-19,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,1,670.76,142.42
+O0008,2023-01-22,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,2,198.0,17.31
+O0009,2023-01-25,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,6,5796.51,1417.11
+O0010,2023-01-28,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,3,1730.05,276.5
+O0011,2023-01-31,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,4,992.71,117.71
+O0012,2023-02-03,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,6,4756.59,1053.85
+O0013,2023-02-06,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,1,111.07,24.08
+O0014,2023-02-09,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,4,681.02,133.5
+O0015,2023-02-12,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,7,5422.6,1159.23
+O0016,2023-02-15,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,6,643.3,136.85
+O0017,2023-02-18,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,5,2702.58,268.83
+O0018,2023-02-21,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,6,3604.47,634.71
+O0019,2023-02-24,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,5,513.12,89.83
+O0020,2023-02-27,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,3,260.35,40.16
+O0021,2023-03-02,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,3,846.11,101.34
+O0022,2023-03-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,1,95.31,12.38
+O0023,2023-03-09,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,2,1771.0,341.68
+O0024,2023-03-12,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,4,2678.62,290.32
+O0025,2023-03-15,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,1,979.24,155.23
+O0026,2023-03-18,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,2,204.06,21.61
+O0027,2023-03-21,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,4,393.44,51.64
+O0028,2023-03-24,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,6,586.63,55.67
+O0029,2023-03-27,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,3,3091.57,615.07
+O0030,2023-03-30,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,3,2094.42,444.83
+O0031,2023-04-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,7,671.74,64.75
+O0032,2023-04-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,8,4878.41,558.1
+O0033,2023-04-08,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,7,1627.71,367.25
+O0034,2023-04-11,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,7,6916.23,1061.34
+O0035,2023-04-14,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,2,1722.08,162.49
+O0036,2023-04-17,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,4,355.34,58.27
+O0037,2023-04-20,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,6,1361.18,244.88
+O0038,2023-04-23,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,2,232.27,41.53
+O0039,2023-04-26,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,5,2647.64,643.26
+O0040,2023-04-29,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,4,2681.68,252.25
+O0041,2023-05-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,6,4235.77,750.55
+O0042,2023-05-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,4,3095.35,422.1
+O0043,2023-05-08,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Tables,7,4988.16,1099.74
+O0044,2023-05-12,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,8,6679.86,1163.54
+O0045,2023-05-15,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Phones,6,5247.42,1008.04
+O0046,2023-05-18,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,6,674.29,66.29
+O0047,2023-05-21,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,8,1289.77,224.84
+O0048,2023-05-24,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,3,2742.95,596.32
+O0049,2023-05-27,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,2,487.38,81.67
+O0050,2023-05-30,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,3,635.06,68.58
+O0051,2023-06-02,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,3,3253.77,753.52
+O0052,2023-06-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,6,6334.74,1468.94
+O0053,2023-06-08,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,4,3634.19,699.52
+O0054,2023-06-11,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,3,1660.06,343.56
+O0055,2023-06-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,1,242.1,24.42
+O0056,2023-06-17,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,7,5926.94,654.78
+O0057,2023-06-20,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,6,4581.01,608.15
+O0058,2023-06-23,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,7,1510.27,249.38
+O0059,2023-06-26,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,8,6946.86,711.43
+O0060,2023-06-29,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,6,5026.74,834.82
+O0061,2023-07-02,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,7,675.17,146.31
+O0062,2023-07-05,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,6,6134.38,627.42
+O0063,2023-07-08,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,5,4623.43,606.41
+O0064,2023-07-11,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,4,4002.45,970.42
+O0065,2023-07-15,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,8,1817.81,317.0
+O0066,2023-07-18,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,6,5047.25,524.2
+O0067,2023-07-21,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,1,654.32,156.13
+O0068,2023-07-24,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,7,734.74,156.8
+O0069,2023-07-27,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,6,6289.69,1355.17
+O0070,2023-07-30,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,2,1283.74,234.95
+O0071,2023-08-02,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,7,1312.84,188.54
+O0072,2023-08-05,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,4,805.51,183.23
+O0073,2023-08-08,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,5,2956.41,611.45
+O0074,2023-08-11,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,7,1188.55,108.53
+O0075,2023-08-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,3,2818.12,374.12
+O0076,2023-08-17,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Storage,2,433.85,46.92
+O0077,2023-08-20,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,5,1183.22,98.91
+O0078,2023-08-23,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,1,96.56,8.6
+O0079,2023-08-26,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,5,4143.42,555.46
+O0080,2023-08-29,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,5,1071.34,240.72
+O0081,2023-09-01,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,4,3580.94,438.29
+O0082,2023-09-04,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,5,4211.48,372.18
+O0083,2023-09-07,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,8,4564.52,1011.9
+O0084,2023-09-10,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,1,1095.88,106.14
+O0085,2023-09-13,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,7,1556.58,336.76
+O0086,2023-09-17,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,7,6306.52,1339.69
+O0087,2023-09-20,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Phones,7,6833.03,1542.81
+O0088,2023-09-23,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,4,750.79,141.69
+O0089,2023-09-26,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,1,268.21,40.47
+O0090,2023-09-29,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,2,1659.32,236.1
+O0091,2023-10-02,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,4,1150.74,150.14
+O0092,2023-10-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,8,980.92,158.67
+O0093,2023-10-08,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,4,1203.98,229.89
+O0094,2023-10-11,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,7,1926.23,361.35
+O0095,2023-10-14,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,2,496.34,98.33
+O0096,2023-10-17,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Tables,7,5430.31,1001.59
+O0097,2023-10-20,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,5,4293.58,1026.64
+O0098,2023-10-23,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,2,248.01,53.61
+O0099,2023-10-26,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,4,3796.81,914.37
+O0100,2023-10-29,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Phones,3,3022.53,290.64
+O0101,2023-11-01,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Tables,2,1794.29,318.15
+O0102,2023-11-04,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,4,2657.92,557.81
+O0103,2023-11-07,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,5,566.43,134.99
+O0104,2023-11-10,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,1,175.26,16.63
+O0105,2023-11-13,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,6,5714.53,1109.24
+O0106,2023-11-16,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,3,369.44,77.45
+O0107,2023-11-20,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,7,1817.84,194.13
+O0108,2023-11-23,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,2,447.81,69.16
+O0109,2023-11-26,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,2,1340.99,320.69
+O0110,2023-11-29,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,7,4591.41,661.08
+O0111,2023-12-02,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,1,226.84,22.72
+O0112,2023-12-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,7,2022.38,203.71
+O0113,2023-12-08,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,1,758.08,119.2
+O0114,2023-12-11,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,7,729.3,115.2
+O0115,2023-12-14,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,1,749.6,159.53
+O0116,2023-12-17,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,1,1020.41,234.15
+O0117,2023-12-20,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,7,1713.14,428.02
+O0118,2023-12-23,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,6,6263.95,597.42
+O0119,2023-12-26,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,7,1289.86,134.55
+O0120,2023-12-29,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Storage,7,1271.97,298.67
+O0121,2024-01-01,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,8,6104.48,541.97
+O0122,2024-01-04,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,5,610.65,73.62
+O0123,2024-01-07,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,2,439.6,104.5
+O0124,2024-01-10,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,7,7475.38,1662.95
+O0125,2024-01-13,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,4,3578.31,593.18
+O0126,2024-01-16,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,6,5585.68,1255.06
+O0127,2024-01-19,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,7,6406.23,807.37
+O0128,2024-01-23,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Phones,6,6919.28,1272.89
+O0129,2024-01-26,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,1,869.61,200.28
+O0130,2024-01-29,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,6,3636.62,347.63
+O0131,2024-02-01,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,4,1115.95,238.03
+O0132,2024-02-04,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,6,1731.82,181.27
+O0133,2024-02-07,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,5,1040.8,207.08
+O0134,2024-02-10,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,6,1919.04,201.95
+O0135,2024-02-13,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,6,5381.97,539.63
+O0136,2024-02-16,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,2,379.72,50.05
+O0137,2024-02-19,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,7,4937.68,740.69
+O0138,2024-02-22,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,4,3723.39,670.26
+O0139,2024-02-25,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,8,2204.68,354.08
+O0140,2024-02-28,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,2,2078.21,366.14
+O0141,2024-03-02,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,5,596.07,79.73
+O0142,2024-03-05,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,7,2024.41,310.43
+O0143,2024-03-08,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Tables,5,4577.43,939.47
+O0144,2024-03-11,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,8,8217.61,1360.98
+O0145,2024-03-14,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Tables,3,2583.7,574.5
+O0146,2024-03-17,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,4,2420.7,223.31
+O0147,2024-03-20,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,7,1341.86,183.57
+O0148,2024-03-23,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,2,1291.62,266.41
+O0149,2024-03-27,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,4,4542.98,650.94
+O0150,2024-03-30,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,2,234.9,23.57
+O0151,2024-04-02,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,5,3962.81,837.17
+O0152,2024-04-05,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,3,2186.54,437.13
+O0153,2024-04-08,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,8,4709.76,544.16
+O0154,2024-04-11,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,5,517.0,55.94
+O0155,2024-04-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,8,1683.81,374.89
+O0156,2024-04-17,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,8,821.08,128.25
+O0157,2024-04-20,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,3,2228.56,342.62
+O0158,2024-04-23,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,4,2470.76,273.66
+O0159,2024-04-26,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,8,1523.28,197.49
+O0160,2024-04-29,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,4,1179.82,193.32
+O0161,2024-05-02,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,3,3454.84,650.86
+O0162,2024-05-05,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,6,5852.31,1227.19
+O0163,2024-05-08,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,6,6338.28,871.75
+O0164,2024-05-11,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,7,1453.96,306.3
+O0165,2024-05-14,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,3,703.36,126.47
+O0166,2024-05-17,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,7,6958.51,1146.75
+O0167,2024-05-20,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,5,4498.79,1061.48
+O0168,2024-05-23,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,6,5029.31,692.06
+O0169,2024-05-26,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,3,981.57,153.32
+O0170,2024-05-30,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,3,2149.69,174.65
+O0171,2024-06-02,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,2,608.48,150.24
+O0172,2024-06-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,5,581.05,121.7
+O0173,2024-06-08,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,5,1199.33,255.39
+O0174,2024-06-11,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,7,4345.11,888.62
+O0175,2024-06-14,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,6,4406.72,1079.07
+O0176,2024-06-17,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,8,7888.81,1615.14
+O0177,2024-06-20,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,6,622.79,54.16
+O0178,2024-06-23,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,7,6531.75,1616.88
+O0179,2024-06-26,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,3,2050.13,440.63
+O0180,2024-06-29,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,1,951.57,205.87
+O0181,2024-07-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,4,731.58,104.88
+O0182,2024-07-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,1,187.5,36.53
+O0183,2024-07-08,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,6,785.62,161.6
+O0184,2024-07-11,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,7,4285.4,513.7
+O0185,2024-07-14,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,2,1607.35,269.21
+O0186,2024-07-17,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,6,1520.22,225.34
+O0187,2024-07-20,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,5,978.42,220.12
+O0188,2024-07-23,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Tables,3,3132.2,409.76
+O0189,2024-07-26,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Tables,4,3520.92,812.33
+O0190,2024-07-29,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,2,371.89,51.37
+O0191,2024-08-01,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,4,547.22,71.35
+O0192,2024-08-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,4,424.14,75.38
+O0193,2024-08-08,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,7,1542.23,226.25
+O0194,2024-08-11,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,8,5706.72,586.89
+O0195,2024-08-14,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,1,650.16,53.97
+O0196,2024-08-17,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,4,1238.03,171.29
+O0197,2024-08-20,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,8,6143.76,1056.39
+O0198,2024-08-23,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,3,719.13,86.27
+O0199,2024-08-26,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,8,2401.09,495.09
+O0200,2024-08-29,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,5,1555.97,203.67
+O0201,2024-09-01,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,3,806.97,184.5
+O0202,2024-09-04,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Phones,3,3299.77,708.25
+O0203,2024-09-07,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,6,714.87,178.07
+O0204,2024-09-10,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,6,6303.7,1471.5
+O0205,2024-09-13,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,4,488.95,47.59
+O0206,2024-09-16,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,6,4910.13,820.8
+O0207,2024-09-19,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,2,1638.62,159.78
+O0208,2024-09-22,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,1,277.15,25.26
+O0209,2024-09-25,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,3,2038.55,180.74
+O0210,2024-09-28,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,1,208.52,18.83
+O0211,2024-10-01,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,4,455.26,66.92
+O0212,2024-10-04,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,4,1029.1,101.93
+O0213,2024-10-08,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,2,436.67,71.27
+O0214,2024-10-11,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,3,3199.69,680.57
+O0215,2024-10-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,5,1031.01,124.98
+O0216,2024-10-17,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,4,919.1,109.19
+O0217,2024-10-20,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,2,523.07,82.82
+O0218,2024-10-23,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,6,1169.76,103.0
+O0219,2024-10-26,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Phones,1,928.68,104.03
+O0220,2024-10-29,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,1,106.87,19.82
+O0221,2024-11-01,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,1,313.25,70.29
+O0222,2024-11-04,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,1,809.6,149.98
+O0223,2024-11-07,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,8,9720.79,1197.84
+O0224,2024-11-10,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,8,2406.66,439.41
+O0225,2024-11-13,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,1,240.23,32.22
+O0226,2024-11-16,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,7,7038.46,821.95
+O0227,2024-11-19,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,6,3836.12,326.35
+O0228,2024-11-22,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,3,313.19,33.87
+O0229,2024-11-25,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,7,915.12,122.55
+O0230,2024-11-28,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Phones,8,9031.26,915.99
+O0231,2024-12-01,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Phones,6,5990.31,995.83
+O0232,2024-12-04,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Phones,8,7538.25,624.31
+O0233,2024-12-07,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,5,983.1,228.61
+O0234,2024-12-11,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,8,8952.18,1662.46
+O0235,2024-12-14,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,6,1897.34,246.86
+O0236,2024-12-17,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,6,4874.67,405.02
+O0237,2024-12-20,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,2,2188.74,269.48
+O0238,2024-12-23,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,5,4999.03,736.6
+O0239,2024-12-26,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,5,627.35,131.07
+O0240,2024-12-29,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,8,960.17,160.81
+O0241,2025-01-01,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Phones,1,1122.77,167.69
+O0242,2025-01-04,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,1,249.29,36.68
+O0243,2025-01-07,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,4,564.68,62.3
+O0244,2025-01-10,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,2,274.71,64.6
+O0245,2025-01-13,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,3,995.15,228.21
+O0246,2025-01-16,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,4,3988.26,821.95
+O0247,2025-01-19,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,5,633.01,61.9
+O0248,2025-01-22,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,8,1100.79,237.41
+O0249,2025-01-25,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,1,1197.56,100.52
+O0250,2025-01-28,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,8,2388.6,483.17
+O0251,2025-01-31,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,6,1266.53,232.39
+O0252,2025-02-03,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,5,4863.71,886.66
+O0253,2025-02-06,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Storage,5,1022.65,147.39
+O0254,2025-02-09,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,4,2668.0,287.31
+O0255,2025-02-13,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,1,142.06,17.25
+O0256,2025-02-16,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,1,336.27,77.27
+O0257,2025-02-19,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,4,1132.16,191.04
+O0258,2025-02-22,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Phones,4,4175.24,366.08
+O0259,2025-02-25,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,1,784.32,128.81
+O0260,2025-02-28,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,1,208.29,27.1
+O0261,2025-03-03,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,3,423.55,104.78
+O0262,2025-03-06,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,8,9159.9,844.63
+O0263,2025-03-09,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,8,9215.97,889.21
+O0264,2025-03-12,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,7,912.89,157.2
+O0265,2025-03-15,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,1,1018.44,228.97
+O0266,2025-03-18,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,5,4046.64,527.38
+O0267,2025-03-21,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Chairs,7,5704.8,1205.42
+O0268,2025-03-24,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,2,2568.42,258.16
+O0269,2025-03-27,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,6,1264.68,283.16
+O0270,2025-03-30,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,2,1963.73,307.28
+O0271,2025-04-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,8,2807.72,642.06
+O0272,2025-04-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,3,384.53,47.0
+O0273,2025-04-08,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,3,1078.24,249.03
+O0274,2025-04-11,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,7,8043.39,1314.32
+O0275,2025-04-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,4,3984.22,407.98
+O0276,2025-04-18,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,2,1730.77,280.29
+O0277,2025-04-21,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,2,464.66,53.58
+O0278,2025-04-24,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,3,2945.57,295.21
+O0279,2025-04-27,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Storage,1,236.02,37.54
+O0280,2025-04-30,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,4,923.15,103.24
+O0281,2025-05-03,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,2,494.2,78.92
+O0282,2025-05-06,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,2,518.95,71.63
+O0283,2025-05-09,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,8,10030.11,1864.2
+O0284,2025-05-12,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,7,8774.36,1018.11
+O0285,2025-05-15,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,5,1200.04,96.47
+O0286,2025-05-18,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,8,7653.53,693.03
+O0287,2025-05-21,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,7,4815.27,902.81
+O0288,2025-05-24,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Chairs,4,3460.78,464.63
+O0289,2025-05-27,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,6,804.85,146.44
+O0290,2025-05-30,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,4,5230.16,723.13
+O0291,2025-06-02,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,1,355.98,30.91
+O0292,2025-06-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Storage,4,1038.16,215.35
+O0293,2025-06-08,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,4,973.38,127.92
+O0294,2025-06-11,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,8,5943.7,1221.71
+O0295,2025-06-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,8,6600.27,1099.07
+O0296,2025-06-17,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,8,1007.02,191.34
+O0297,2025-06-21,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,6,4560.48,462.37
+O0298,2025-06-24,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,1,135.48,25.94
+O0299,2025-06-27,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Tables,3,2934.9,333.49
+O0300,2025-06-30,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,7,9006.25,1098.18
+O0301,2025-07-03,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,2,242.46,25.11
+O0302,2025-07-06,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,3,1026.11,240.89
+O0303,2025-07-09,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,8,2757.09,667.21
+O0304,2025-07-12,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Tables,5,4817.97,897.74
+O0305,2025-07-15,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,6,1891.31,371.69
+O0306,2025-07-18,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,1,1008.82,230.79
+O0307,2025-07-21,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,3,3528.04,794.43
+O0308,2025-07-24,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,3,988.03,161.32
+O0309,2025-07-27,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,7,6721.34,1580.55
+O0310,2025-07-30,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,8,2064.81,508.55
+O0311,2025-08-02,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,8,1130.56,182.82
+O0312,2025-08-05,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Tables,4,3865.31,732.94
+O0313,2025-08-08,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,3,1007.84,150.87
+O0314,2025-08-11,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,2,717.11,162.28
+O0315,2025-08-14,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Accessories,3,934.2,201.39
+O0316,2025-08-17,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,7,7357.54,1557.13
+O0317,2025-08-20,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,1,1355.36,152.8
+O0318,2025-08-24,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,2,460.68,85.38
+O0319,2025-08-27,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,3,616.07,63.74
+O0320,2025-08-30,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,7,6831.21,1574.08
+O0321,2025-09-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Tables,4,4645.38,510.9
+O0322,2025-09-05,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,4,4826.39,796.98
+O0323,2025-09-08,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,7,1060.39,264.99
+O0324,2025-09-11,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,5,5218.64,1063.21
+O0325,2025-09-14,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Storage,3,704.5,107.23
+O0326,2025-09-17,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,1,347.05,48.61
+O0327,2025-09-20,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,6,868.32,130.97
+O0328,2025-09-23,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,3,2553.36,552.13
+O0329,2025-09-26,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,2,1414.79,324.61
+O0330,2025-09-29,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,1,212.9,36.35
+O0331,2025-10-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Phones,5,5088.18,784.46
+O0332,2025-10-05,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Storage,7,1441.94,275.24
+O0333,2025-10-08,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,3,356.73,80.74
+O0334,2025-10-11,West,India,Maharashtra,Mumbai,19.076,72.8777,Technology,Accessories,7,2354.69,516.3
+O0335,2025-10-14,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,4,5129.57,634.87
+O0336,2025-10-17,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,7,2330.42,483.67
+O0337,2025-10-20,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,3,2192.32,253.05
+O0338,2025-10-23,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,7,6596.49,624.14
+O0339,2025-10-27,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,2,729.46,107.77
+O0340,2025-10-30,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,8,948.2,181.2
+O0341,2025-11-02,West,India,Maharashtra,Mumbai,19.076,72.8777,Furniture,Chairs,8,7155.76,1759.25
+O0342,2025-11-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Storage,7,1532.54,180.13
+O0343,2025-11-08,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,8,9179.9,1618.34
+O0344,2025-11-11,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,5,736.04,147.79
+O0345,2025-11-14,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,5,6213.72,1010.68
+O0346,2025-11-17,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,3,3137.52,655.25
+O0347,2025-11-20,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,3,388.18,48.92
+O0348,2025-11-23,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,5,5694.88,1001.71
+O0349,2025-11-26,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,7,797.6,92.59
+O0350,2025-11-29,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,8,8952.38,977.9
+O0351,2025-12-02,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Storage,1,241.26,57.67
+O0352,2025-12-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Chairs,1,740.79,133.03
+O0353,2025-12-08,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,3,925.66,89.66
+O0354,2025-12-11,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,2,1582.45,173.98
+O0355,2025-12-14,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,6,6897.21,974.78
+O0356,2025-12-17,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,1,323.06,40.39
+O0357,2025-12-20,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Furniture,Tables,4,4823.32,1148.16
+O0358,2025-12-23,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,1,119.1,11.86
+O0359,2025-12-26,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,4,4776.69,994.63
+O0360,2025-12-30,North,India,Delhi,Delhi,28.6139,77.209,Technology,Phones,7,8571.49,2138.03

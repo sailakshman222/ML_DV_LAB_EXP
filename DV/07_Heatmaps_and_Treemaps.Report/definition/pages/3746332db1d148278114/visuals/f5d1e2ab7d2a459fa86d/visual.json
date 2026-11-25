@@ -1,0 +1,88 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "f5d1e2ab7d2a459fa86d",
+  "position": {
+    "x": 20,
+    "y": 370,
+    "width": 610,
+    "height": 330,
+    "z": 2000,
+    "tabOrder": 2000
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Correlation"
+                    }
+                  },
+                  "Property": "Variable"
+                }
+              },
+              "queryRef": "Correlation.Variable",
+              "nativeQueryRef": "Variable"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Correlation"
+                    }
+                  },
+                  "Property": "ComparedVariable"
+                }
+              },
+              "queryRef": "Correlation.ComparedVariable",
+              "nativeQueryRef": "ComparedVariable"
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "Correlation"
+                    }
+                  },
+                  "Property": "Correlation Value"
+                }
+              },
+              "queryRef": "Correlation.Correlation Value",
+              "nativeQueryRef": "Correlation Value"
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Correlation values'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

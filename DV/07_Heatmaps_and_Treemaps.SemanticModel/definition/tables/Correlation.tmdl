@@ -1,0 +1,35 @@
+table Correlation
+	lineageTag: 309f4796-a45b-4839-97a2-ebfb6869f3ca
+
+	measure 'Correlation Value' = AVERAGE(Correlation[Correlation])
+		formatString: 0.000
+		lineageTag: 9f694021-aa11-46d6-829e-18319a050384
+
+	column Variable
+		dataType: string
+		lineageTag: a36076b0-a4f9-4c7b-8b30-ffb3955094fa
+		summarizeBy: none
+		sourceColumn: Variable
+
+	column ComparedVariable
+		dataType: string
+		lineageTag: 47b599b6-0a35-47f0-9569-7fbacc0aef0f
+		summarizeBy: none
+		sourceColumn: ComparedVariable
+
+	column Correlation
+		dataType: double
+		lineageTag: 09f132ed-1c6f-440b-936c-215d8e561e0f
+		summarizeBy: none
+		sourceColumn: Correlation
+
+	partition Correlation = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(Binary.FromText("VmFyaWFibGUsQ29tcGFyZWRWYXJpYWJsZSxDb3JyZWxhdGlvbgpRdWFudGl0eSxRdWFudGl0eSwxLjAKU2FsZXMsUXVhbnRpdHksMC41NzI1ODY1NDEwMjU0MjMyClByb2ZpdCxRdWFudGl0eSwwLjUyNTI4NjE3MzQzNDM3MjQKUXVhbnRpdHksU2FsZXMsMC41NzI1ODY1NDEwMjU0MjMyClNhbGVzLFNhbGVzLDEuMApQcm9maXQsU2FsZXMsMC45MDczOTIyNzI3NTczNzYKUXVhbnRpdHksUHJvZml0LDAuNTI1Mjg2MTczNDM0MzcyNApTYWxlcyxQcm9maXQsMC45MDczOTIyNzI3NTczNzYKUHJvZml0LFByb2ZpdCwxLjAK", BinaryEncoding.Base64), [Delimiter=",", Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
+				    Headers = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    Typed = Table.TransformColumnTypes(Headers, {{"Variable", type text}, {"ComparedVariable", type text}, {"Correlation", type number}}, "en-US")
+				in
+				    Typed
+

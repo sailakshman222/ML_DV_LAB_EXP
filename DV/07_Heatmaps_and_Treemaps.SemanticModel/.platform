@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "07_Heatmaps_and_Treemaps"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "49ecb069-f6f4-441f-9282-af09490d0355"
+  }
+}

@@ -1,0 +1,27 @@
+Order ID,Date,Region,Country,State,City,Latitude,Longitude,Category,Subcategory,Quantity,Sales Amount,Profit
+O0001,2023-01-01,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,6.0,664.55,131.95
+O0002,2023-01-04,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,1.0,285.67,59.82
+O0003,2023-01-07,East,India,West Bengal,Kolkata,22.5726,88.3639,Office Supplies,Paper,5.0,,70.45
+O0004,2023-01-10,North,India,Delhi,Delhi,28.6139,77.209,Technology,Accessories,8.0,2086.32,458.72
+O0005,2023-01-13,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,4.0,2439.3,221.61
+O0006,2023-01-16,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,,1309.77,273.58
+O0007,2023-01-19,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,1.0,670.76,142.42
+O0008,2023-01-22,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Office Supplies,Paper,2.0,198.0,17.31
+O0009,2023-01-25,South,India,Tamil Nadu,Chennai,13.0827,80.2707, Technology ,Phones,6.0,5796.51,1417.11
+O0010,2023-01-28,East,India,West Bengal,Kolkata,22.5726,88.3639,Furniture,Chairs,3.0,1730.05,276.5
+O0011,2023-01-31,East,India,West Bengal,Kolkata,22.5726,88.3639,Technology,Accessories,4.0,992.71,
+O0012,2023-02-03,North,India,Delhi,Delhi,28.6139,77.209,Furniture,Tables,6.0,4756.59,1053.85
+O0013,2023-02-06,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,1.0,111.07,24.08
+O0014,2023-02-09,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Storage,4.0,681.02,133.5
+O0015,2023-02-12,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Technology,Phones,7.0,5422.6,1159.23
+O0016,2023-02-15,West,India,Maharashtra,Mumbai,19.076,72.8777,Office Supplies,Paper,6.0,643.3,136.85
+O0017,2023-02-18,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,5.0,2702.58,268.83
+O0018,2023-02-21,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,6.0,3604.47,634.71
+O0019,2023-02-24,North,India,Delhi,Delhi,28.6139,77.209,Office Supplies,Paper,5.0,513.12,89.83
+O0020,2023-02-27,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Office Supplies,Paper,3.0,260.35,40.16
+O0021,2023-03-02,North,India,Uttar Pradesh,Lucknow,26.8467,80.9462,Technology,Accessories,3.0,846.11,101.34
+O0022,2023-03-05,South,India,Karnataka,Bengaluru,12.9716,77.5946,Office Supplies,Paper,1.0,95.31,12.38
+O0023,2023-03-09,South,India,Karnataka,Bengaluru,12.9716,77.5946,Furniture,Tables,2.0,1771.0,341.68
+O0024,2023-03-12,South,India,Tamil Nadu,Chennai,13.0827,80.2707,Furniture,Chairs,4.0,2678.62,290.32
+O0025,2023-03-15,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Phones,1.0,979.24,155.23
+O0002,2023-01-04,South,India,Karnataka,Bengaluru,12.9716,77.5946,Technology,Accessories,1.0,285.67,59.82

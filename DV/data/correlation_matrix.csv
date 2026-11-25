@@ -1,0 +1,10 @@
+Variable,ComparedVariable,Correlation
+Quantity,Quantity,1.0
+Sales,Quantity,0.5725865410254232
+Profit,Quantity,0.5252861734343724
+Quantity,Sales,0.5725865410254232
+Sales,Sales,1.0
+Profit,Sales,0.907392272757376
+Quantity,Profit,0.5252861734343724
+Sales,Profit,0.907392272757376
+Profit,Profit,1.0
